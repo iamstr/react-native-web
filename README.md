@@ -5,7 +5,7 @@ this is a mobile app as well as web app
 
 ### functions
 
-*it records current workout 
+* it records current workout 
 * has a record of workout history
 
 
